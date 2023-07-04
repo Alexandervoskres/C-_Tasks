@@ -1,0 +1,30 @@
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.exe
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.deps.json
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.runtimeconfig.json
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.dll
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.pdb
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.csproj.AssemblyReference.cache
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.AssemblyInfoInputs.cache
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.AssemblyInfo.cs
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.dll
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\refint\Dop_Zad1.dll
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.pdb
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.genruntimeconfig.cache
+C:\Users\miner\source\repos\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\ref\Dop_Zad1.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.exe
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.deps.json
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.runtimeconfig.json
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\bin\Debug\net6.0\Dop_Zad1.pdb
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.csproj.AssemblyReference.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.AssemblyInfoInputs.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.AssemblyInfo.cs
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.csproj.CoreCompileInputs.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\refint\Dop_Zad1.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.pdb
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\Dop_Zad1.genruntimeconfig.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Dop_Zad1\Dop_Zad1\obj\Debug\net6.0\ref\Dop_Zad1.dll

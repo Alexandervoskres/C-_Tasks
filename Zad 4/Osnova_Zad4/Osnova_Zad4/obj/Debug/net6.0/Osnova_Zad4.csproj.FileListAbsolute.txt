@@ -1,0 +1,30 @@
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.exe
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.deps.json
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.runtimeconfig.json
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.dll
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.pdb
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.csproj.AssemblyReference.cache
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.AssemblyInfoInputs.cache
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.AssemblyInfo.cs
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.dll
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\refint\Osnova_Zad4.dll
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.pdb
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.genruntimeconfig.cache
+C:\Users\miner\source\repos\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\ref\Osnova_Zad4.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.exe
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.deps.json
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.runtimeconfig.json
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\bin\Debug\net6.0\Osnova_Zad4.pdb
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.csproj.AssemblyReference.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.AssemblyInfoInputs.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.AssemblyInfo.cs
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.csproj.CoreCompileInputs.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\refint\Osnova_Zad4.dll
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.pdb
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\Osnova_Zad4.genruntimeconfig.cache
+C:\Users\miner\OneDrive\Рабочий стол\C#\Zad 4\Osnova_Zad4\Osnova_Zad4\obj\Debug\net6.0\ref\Osnova_Zad4.dll

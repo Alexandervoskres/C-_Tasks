@@ -1,0 +1,15 @@
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\bin\Debug\net6.0\Osnova2_Zad4.exe
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\bin\Debug\net6.0\Osnova2_Zad4.deps.json
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\bin\Debug\net6.0\Osnova2_Zad4.runtimeconfig.json
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\bin\Debug\net6.0\Osnova2_Zad4.dll
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\bin\Debug\net6.0\Osnova2_Zad4.pdb
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.csproj.AssemblyReference.cache
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.AssemblyInfoInputs.cache
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.AssemblyInfo.cs
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.dll
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\refint\Osnova2_Zad4.dll
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.pdb
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\Osnova2_Zad4.genruntimeconfig.cache
+C:\Users\miner\source\repos\Osnova2_Zad4\Osnova2_Zad4\obj\Debug\net6.0\ref\Osnova2_Zad4.dll
